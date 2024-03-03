@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Ali Murtaza</h1>
-<h3 align="center">A passionate Full Stack MERN/NextJs Developer</h3>
+<h3 align="center">A passionate Full Stack MERN/NextJs Developer And Web Automation Developer Using Python and Selenium</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jupiter512&label=Profile%20views&color=0e75b6&style=flat" alt="jupiter512" /> </p>
 
