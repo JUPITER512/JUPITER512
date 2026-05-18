@@ -14,8 +14,20 @@
 
 <br/>
 
----
 
+---
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedalimurtaza1214/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JUPITER512)
+
+</div>
+
+<br/>
+
+---
 ## 💫 About Me
 
 🔭 &nbsp;Currently transitioning from **Full-Stack (MERN)** development to **AI Data Engineering** — combining software engineering fundamentals with modern data infrastructure to build scalable pipelines and AI-ready data systems.
@@ -158,23 +170,7 @@ Full-Stack Engineer ────────────────────
 
 ---
 
-## 🌐 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedalimurtaza1214/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JUPITER512)
-
-</div>
-
-<br/>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=JUPITER512&icon=6&color=6" />
 </div>
